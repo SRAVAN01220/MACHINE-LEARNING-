@@ -17,7 +17,7 @@ Please download the files from the OneDrive folder before running the project.
 </a>
 </p>
 
-⸻
+Author:
+Sravan Bitla
 
-Author: Sravan Bitla
-Master’s in Data Science | Germany
+Master’s in Data Science,Germany
